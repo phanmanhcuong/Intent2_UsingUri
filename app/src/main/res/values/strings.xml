@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent2</string>
+    <string name="btn_input_number">Click to calculate default or input numbers</string>
+    <string name="btn_random_number">Click to calculate random numbers</string>
+</resources>
